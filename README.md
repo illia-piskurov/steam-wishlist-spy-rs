@@ -6,7 +6,7 @@ Written in [Rust].
 <img
     src="./.github/screen.png"
     alt="screenshot of program"
-    width="400"
+    width="500"
 />
 
 ### ❗️ Prerequisites ❗️
