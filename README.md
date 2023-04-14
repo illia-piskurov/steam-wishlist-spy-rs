@@ -4,7 +4,7 @@ A program that allows you to keep track of your [Steam] wishlist.
 Written in [Rust].
 
 <img
-    src="./.github/screen.png"
+    src="./.github/screenshot.png"
     alt="screenshot of program"
     width="500"
 />
